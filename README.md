@@ -3,21 +3,13 @@ Description:
 This repository contains the codebase and resources for a mental health-oriented chatbot developed using the ChatGPT API. The chatbot aims to provide support, information, and resources related to mental health queries. The project focuses on efficient communication, security, and accuracy.
 
 Features:
-* Adopts a prompt-based engineering method for quicker training and response time.
-* Customized prompts guide the chatbot's interactions, a technique known as shot prompting.
-* Refines prompts using the Langchain library, incorporating pre-trained language models.
-* Optimized indexing and searching algorithms ensure faster and more accurate replies.
-* Incorporates Pinecone Vector database for accurate data storage and retrieval.
-* Performs precise Cosine similarity searches between user queries and stored documents.
-* Uses OpenAI models: text-embedding-ada-002 for text-to-vector conversion, GPT Turbo 3.5 for natural conversations.
-
-
-
-Query to LLM which acts as a friend or a mental health specialist based on input:
-![openquery](/assets/open.png)
-
-Vector results from pinecone DB which contains verified mental health resources.
-![vector](/assets/vec.png)
+* Employing a prompt-driven engineering approach for faster training and response.
+* Utilizing customized prompts to steer interactions, employing shot prompting.
+* Enhancing prompts through the Langchain library, integrating pre-trained language models.
+* Implementing optimized indexing and search algorithms for quicker and more precise responses.
+* Leveraging the Pinecone Vector database for precise data storage and retrieval.
+* Conducting accurate Cosine similarity searches between user queries and stored documents.
+* Employing OpenAI models like text-embedding-ada-002 for text-to-vector conversion and GPT Turbo 3.5 for natural conversations
 
 References:
 
