@@ -1,6 +1,5 @@
 # Mental Health chatbot with custom ChatGPT API
-Description:
-This repository contains the codebase and resources for a mental health-oriented chatbot developed using the ChatGPT API. The chatbot aims to provide support, information, and resources related to mental health queries. The project focuses on efficient communication, security, and accuracy.
+This repository hosts the codebase and resources for a mental health focused chatbot built on the ChatGPT API. The chatbot's primary goal is to offer support, information, and resources concerning mental health inquiries. The project prioritizes efficient communication, security, and accuracy as its main pillars.
 
 Features:
 * Employing a prompt-driven engineering approach for faster training and response.
