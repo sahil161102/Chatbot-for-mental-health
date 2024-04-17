@@ -157,7 +157,7 @@ def chat_page():
         sendinput(a,st.session_state.img)
 
 def main():
-    st.title("InnerVerse")
+    st.title("Mental Health bot")
     if "user_name" not in st.session_state:
         st.session_state.user_name = ""
     if "user_phone" not in st.session_state:
