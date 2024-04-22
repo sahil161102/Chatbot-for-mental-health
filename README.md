@@ -1,5 +1,7 @@
 # Mental Health chatbot with custom ChatGPT API
-This repository hosts the codebase and resources for a mental health focused chatbot built on the ChatGPT API. The chatbot's primary goal is to offer support, information, and resources concerning mental health inquiries. The project prioritizes efficient communication, security, and accuracy as its main pillars.
+This repository hosts the codebase and resources for a mental health focused chatbot built on the ChatGPT API. The chatbot's primary goal is to offer support, information, and resources concerning mental health inquiries. The project prioritizes efficient communication, security, and accuracy as its main pillars. 
+
+This project is in two verticles. in first vertical, I have developed a LSTM-based question answering system on a mental health dataset sourced from [Kaggle](https://www.kaggle.com/datasets/narendrageek/mental-health-faq-for-chatbot) The features of second verticle is listed below:
 
 Features:
 * Employing a prompt-driven engineering approach for faster training and response.
